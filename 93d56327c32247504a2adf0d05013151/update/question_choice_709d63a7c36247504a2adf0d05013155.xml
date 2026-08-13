@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
-        <misc>0</misc>
         <order>200</order>
         <published_ref/>
         <question display_value="Site Address">99bc2727c36247504a2adf0d050131c6</question>
-        <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-08-13 10:05:59</sys_created_on>

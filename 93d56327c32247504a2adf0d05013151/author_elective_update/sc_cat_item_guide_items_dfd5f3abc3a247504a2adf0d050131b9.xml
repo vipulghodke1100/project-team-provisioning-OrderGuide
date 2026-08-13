@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="DELETE">
+        <condition/>
+        <guide display_value="Project Team Provisioning">c477672bc32247504a2adf0d0501315d</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Security Approvals">f0443b67c3a247504a2adf0d05013161</item>
+        <order>500</order>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-13 10:43:19</sys_created_on>
+        <sys_id>dfd5f3abc3a247504a2adf0d050131b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f0443b67c3a247504a2adf0d05013161</sys_name>
+        <sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_dfd5f3abc3a247504a2adf0d050131b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-13 10:43:19</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</application>
+        <file_path/>
+        <instance_id>6f98bb02ffc61e18c812f8e4fc4fd919</instance_id>
+        <instance_name>dev291661</instance_name>
+        <name>sc_cat_item_guide_items_dfd5f3abc3a247504a2adf0d050131b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items"><sc_cat_item_guide_items action="INSERT_OR_UPDATE"><condition/><guide display_value="Project Team Provisioning">c477672bc32247504a2adf0d0501315d</guide><ignore_mandatory_eval>false</ignore_mandatory_eval><item display_value="Security Approvals">f0443b67c3a247504a2adf0d05013161</item><order>500</order><quantity>1</quantity><requested_by/><requested_for/><show_quantity>false</show_quantity><sys_class_name>sc_cat_item_guide_items</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-13 10:43:19</sys_created_on><sys_id>dfd5f3abc3a247504a2adf0d050131b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>f0443b67c3a247504a2adf0d05013161</sys_name><sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package><sys_policy/><sys_scope display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</sys_scope><sys_update_name>sc_cat_item_guide_items_dfd5f3abc3a247504a2adf0d050131b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-13 10:43:19</sys_updated_on><use_sc_layout>true</use_sc_layout></sc_cat_item_guide_items></record_update>]]></payload>
+        <payload_hash>-1695482116</payload_hash>
+        <record_name>f0443b67c3a247504a2adf0d05013161</record_name>
+        <reverted_from/>
+        <source>9fd56327c32247504a2adf0d0501318b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-13 10:43:19</sys_created_on>
+        <sys_id>3716bfabc3a247504a2adf0d050131ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ffab8226b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-13 10:43:19</sys_updated_on>
+        <type>Rule</type>
+        <update_guid>f316bfabcaa24750e0104fed155b7dee</update_guid>
+        <update_guid_history>f316bfabcaa24750e0104fed155b7dee:-1695482116</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Security Approvals">1756f7ebc3a247504a2adf0d05013195</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-13 10:44:22</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_guide_items">sc_cat_item_guide_items</sys_db_object>
+        <sys_id>1f2db978e6d2469595e46ef2448d5831</sys_id>
+        <sys_metadata>dfd5f3abc3a247504a2adf0d050131b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f0443b67c3a247504a2adf0d05013161</sys_name>
+        <sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</sys_scope>
+        <sys_scope_delete display_value="">13f9ee3075d14eecbc77c0917d0eae10</sys_scope_delete>
+        <sys_update_name>sc_cat_item_guide_items_dfd5f3abc3a247504a2adf0d050131b9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_guide_items_dfd5f3abc3a247504a2adf0d050131b9">3716bfabc3a247504a2adf0d050131ef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-13 10:44:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
