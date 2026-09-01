@@ -15,7 +15,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="Test Flow">8d1fa76bc36247504a2adf0d050131ca</flow_designer_flow>
+        <flow_designer_flow display_value="PTP_JIRA_ACCESS_FLOW">d8142380c34b03104a2adf0d05013187</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -52,7 +52,7 @@
         <price>0</price>
         <published_ref/>
         <recurring_frequency/>
-        <request_method/>
+        <request_method>submit</request_method>
         <roles/>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
@@ -66,21 +66,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-08-13 10:17:14</sys_created_on>
         <sys_id>1dffefebc36247504a2adf0d0501310a</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>JIRA Access</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</sys_scope>
         <sys_update_name>sc_cat_item_1dffefebc36247504a2adf0d0501310a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-13 10:40:18</sys_updated_on>
+        <sys_updated_on>2026-08-27 09:10:57</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>3</version>
+        <version>5</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
