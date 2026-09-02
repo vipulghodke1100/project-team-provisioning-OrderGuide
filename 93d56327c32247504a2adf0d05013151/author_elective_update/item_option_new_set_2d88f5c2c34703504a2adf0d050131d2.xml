@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description>project team provisioining variable set to cascade varibles</description>
+        <display_title>false</display_title>
+        <internal_name>project_team_provisioining_variable_set</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-02 06:16:08</sys_created_on>
+        <sys_id>2d88f5c2c34703504a2adf0d050131d2</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>project team provisioining variable set </sys_name>
+        <sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</sys_scope>
+        <sys_update_name>item_option_new_set_2d88f5c2c34703504a2adf0d050131d2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-09-02 06:35:25</sys_updated_on>
+        <title>project team provisioining variable set </title>
+        <type>one_to_many</type>
+        <version>5</version>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</application>
+        <file_path/>
+        <instance_id>6f98bb02ffc61e18c812f8e4fc4fd919</instance_id>
+        <instance_name>dev291661</instance_name>
+        <name>item_option_new_set_2d88f5c2c34703504a2adf0d050131d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description>project team provisioining variable set to cascade varibles</description><display_title>false</display_title><internal_name>project_team_provisioining_variable_set</internal_name><layout>normal</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-02 06:16:08</sys_created_on><sys_id>2d88f5c2c34703504a2adf0d050131d2</sys_id><sys_mod_count>5</sys_mod_count><sys_name>project team provisioining variable set </sys_name><sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package><sys_policy/><sys_scope display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</sys_scope><sys_update_name>item_option_new_set_2d88f5c2c34703504a2adf0d050131d2</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-09-02 06:35:25</sys_updated_on><title>project team provisioining variable set </title><type>one_to_many</type><version>5</version><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>701918809</payload_hash>
+        <record_name>project team provisioining variable set </record_name>
+        <reverted_from/>
+        <source>b346c07fc32647504a2adf0d0501314c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-09-02 06:35:25</sys_created_on>
+        <sys_id>e72dbd8ec34703504a2adf0d05013156</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a060d45cbd0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-09-02 06:35:25</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>672dbd8efc4703508cf202b43bfb8155</update_guid>
+        <update_guid_history>672dbd8efc4703508cf202b43bfb8155:701918809,c7dc3d4e514703502e233edaf8da46db:910617112,3dccf94e32470350a910cfc6a6529be4:1119315415,9dbc794e80470350b2f55fee6858df86:1328013718,b49c354ec047035018a927cc05b6f73e:1536712021,cdc8f9c23c4703507a511468e6802c44:1776137400</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="project team provisioining variable set ">baedbdcec34703504a2adf0d050131aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-09-02 06:38:39</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>93984036292a4d9f9f1ebc14c0006491</sys_id>
+        <sys_metadata>2d88f5c2c34703504a2adf0d050131d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>project team provisioining variable set </sys_name>
+        <sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</sys_scope>
+        <sys_scope_delete display_value="">13f9ee3075d14eecbc77c0917d0eae10</sys_scope_delete>
+        <sys_update_name>item_option_new_set_2d88f5c2c34703504a2adf0d050131d2</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_2d88f5c2c34703504a2adf0d050131d2">e72dbd8ec34703504a2adf0d05013156</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-09-02 06:38:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

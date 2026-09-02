@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Project Team Provisioning">c477672bc32247504a2adf0d0501315d</cat_item>
+        <cat_item/>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -45,14 +45,14 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>short_description</name>
+        <name>project_name</name>
         <not_available_conversation>false</not_available_conversation>
         <order>100</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Short Description</question_text>
+        <question_text>Project Name</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -80,16 +80,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-08-13 09:49:09</sys_created_on>
-        <sys_id>ea89af2fc32247504a2adf0d050131e1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Short Description</sys_name>
+        <sys_created_on>2026-09-02 06:32:46</sys_created_on>
+        <sys_id>908c714ec34703504a2adf0d050131d9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Project Name</sys_name>
         <sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package>
         <sys_policy/>
         <sys_scope display_value="Project Team Provisioning ">93d56327c32247504a2adf0d05013151</sys_scope>
-        <sys_update_name>item_option_new_ea89af2fc32247504a2adf0d050131e1</sys_update_name>
+        <sys_update_name>item_option_new_908c714ec34703504a2adf0d050131d9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-13 09:49:09</sys_updated_on>
+        <sys_updated_on>2026-09-02 06:33:40</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
@@ -109,22 +109,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=ea89af2fc32247504a2adf0d050131e1"/>
-    <fx_price action="delete_multiple" query="id=ea89af2fc32247504a2adf0d050131e1"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=908c714ec34703504a2adf0d050131d9"/>
+    <fx_price action="delete_multiple" query="id=908c714ec34703504a2adf0d050131d9"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>ea89af2fc32247504a2adf0d050131e1</id>
+        <id>908c714ec34703504a2adf0d050131d9</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-08-13 09:49:10</sys_created_on>
-        <sys_id>a2b9676fc32247504a2adf0d050131fa</sys_id>
+        <sys_created_on>2026-09-02 06:32:46</sys_created_on>
+        <sys_id>f49c354ec34703504a2adf0d05013141</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-13 09:49:10</sys_updated_on>
+        <sys_updated_on>2026-09-02 06:32:46</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -132,16 +132,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>ea89af2fc32247504a2adf0d050131e1</id>
+        <id>908c714ec34703504a2adf0d050131d9</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-08-13 09:49:10</sys_created_on>
-        <sys_id>6ab9676fc32247504a2adf0d050131f9</sys_id>
+        <sys_created_on>2026-09-02 06:32:46</sys_created_on>
+        <sys_id>749c354ec34703504a2adf0d05013140</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-13 09:49:10</sys_updated_on>
+        <sys_updated_on>2026-09-02 06:32:46</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
